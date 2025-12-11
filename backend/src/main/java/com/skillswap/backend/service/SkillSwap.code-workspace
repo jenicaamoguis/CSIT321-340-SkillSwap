@@ -1,0 +1,12 @@
+{
+    "folders": [
+		{
+			"path": "../../../../../../../../.."
+		}
+	],
+    "settings": {
+        "java.project.sourcePaths": [
+            "CSIT321-340-SkillSwap/backend/src/main/java"
+        ]
+    }
+}
